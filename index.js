@@ -14,7 +14,7 @@
 // else {
    
 // }
-
+console.log("testing app")
 
 const express = require("express")
 const app = express()
